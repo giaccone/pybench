@@ -2,7 +2,7 @@
 
 This project provides a single file `bench.py` that is inspired to the `bench.m` function available in MATLAB&reg;.
 
-Seven task are tested:
+Seven tasks are tested:
 * LU factorization
 * FFT Fast Fourier Transform
 * ODE Ordinary diff. eqn.
